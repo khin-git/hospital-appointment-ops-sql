@@ -1,5 +1,7 @@
-📌 Featured Project:
-Hospital Appointment Operations Analytics (SQL Server)
+📌 Featured Project  
+**Hospital Appointment Operations Analytics (SQL Server)**  
+Analyzed 52k+ hospital appointments to identify no-show drivers, lead-time risks,
+and clinic flow bottlenecks using T-SQL.
 
 ## Objective
 Analyze appointment operations to improve utilisation, reduce no-shows, and shorten patient waiting time.
