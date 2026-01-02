@@ -1,4 +1,5 @@
-# Hospital Appointment Operations Analytics (SQL Server)
+📌 Featured Project:
+Hospital Appointment Operations Analytics (SQL Server)
 
 ## Objective
 Analyze appointment operations to improve utilisation, reduce no-shows, and shorten patient waiting time.
