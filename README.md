@@ -18,12 +18,14 @@ appointment_slots, appointments, reminders
 - Lead time (days) = slot_start - booked_at
 - Waiting time (mins) = start_time - checkin_time
 
-## What I Analyzed
-1. Status distribution (Completed / NoShow / Cancelled)
-2. No-show and cancellation rates by department
-3. Reminder effectiveness (Delivered vs not delivered)
-4. Lead time impact on no-shows
-5. Average waiting time by department
+
+## Key Insights
+- Overall no-show rate is ~8%, with meaningful variation by department.
+- No-show risk increases sharply once appointment lead time exceeds 21 days.
+- Reminder delivery alone does not significantly reduce no-shows without targeting.
+- Cancellation rates (13–15%) exceed no-shows, indicating rescheduling pressure.
+- Average waiting time is ~27 minutes, suggesting system-wide flow constraints.
+
 
 ## Files
 - schema.sql: table definitions
