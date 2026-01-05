@@ -29,6 +29,31 @@ appointment_slots, appointments, reminders
 - Cancellation rates (13–15%) exceed no-shows, indicating rescheduling pressure.
 - Average waiting time is ~27 minutes, suggesting system-wide flow constraints.
 
+## 📊 Power BI Dashboard
+
+### Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+This dashboard provides a high-level view of appointment volume,
+no-show risk, and clinic waiting times across departments.
+
+### No-Show Rate by Department
+![No-Show by Department](screenshots/noshow_by_department.png)
+
+No-show rates vary by department, with Ophthalmology and Physiotherapy
+showing the highest risk.
+
+### No-Show Rate by Appointment Lead Time
+![Lead Time vs No-Show](screenshots/leadtime_noshow.png)
+
+No-show risk increases noticeably once appointment lead time exceeds
+approximately 21 days.
+
+### Average Patient Waiting Time
+![Waiting Time by Department](screenshots/waiting_time_by_department.png)
+
+Average waiting time is consistently around 27 minutes across departments,
+indicating system-wide flow constraints.
 
 ## Files
 - schema.sql: table definitions
