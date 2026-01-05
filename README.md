@@ -23,11 +23,11 @@ appointment_slots, appointments, reminders
 
 
 ## Key Insights
-- Overall no-show rate is ~8%, with meaningful variation by department.
+- Overall no-show rate is 8%, with meaningful variation by department.
 - No-show risk increases sharply once appointment lead time exceeds 21 days.
 - Reminder delivery alone does not significantly reduce no-shows without targeting.
 - Cancellation rates (13–15%) exceed no-shows, indicating rescheduling pressure.
-- Average waiting time is ~27 minutes, suggesting system-wide flow constraints.
+- Average waiting time is 27 minutes, suggesting system-wide flow constraints.
 
 ## 📊 Power BI Dashboard
 
@@ -57,6 +57,6 @@ indicating system-wide flow constraints.
 
 ## Files
 - schema.sql: table definitions
-- seed.sql: generates synthetic data (~52k appointments)
+- seed.sql: generates synthetic data (52k appointments)
 - queries.sql: analytics queries
 - insights.md: findings and recommendations
