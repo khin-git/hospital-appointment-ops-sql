@@ -49,7 +49,7 @@ showing the highest risk.
 No-show risk increases noticeably once appointment lead time exceeds
 approximately 21 days.
 
-### Average Patient Waiting Time
+### Average Patient Waiting Time by Department
 ![Waiting Time by Department](screenshots/waiting_time_by_department.png)
 
 Average waiting time is consistently around 27 minutes across departments,
