@@ -38,7 +38,7 @@ This dashboard provides a high-level view of appointment volume,
 no-show risk, and clinic waiting times across departments.
 
 ### No-Show Rate by Department
-![No-Show by Department](screenshots/noshow_by_department.png)
+![No-Show by Department](screenshots/no_show_rate_by_department.png)
 
 No-show rates vary by department, with Ophthalmology and Physiotherapy
 showing the highest risk.
